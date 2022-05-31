@@ -13,5 +13,5 @@ Our aim is to foster a community that is open to all and strives to:
 
 If you are being harassed or notice that someone else is being harassed, or have any other concerns, please contact :
 
-for virtual events : the organizers in-person through meetup messages.
-for in-person events : the organizer present during the event
+- for virtual events : the organizers in-person through meetup messages.
+- for in-person events : the organizer present during the event
